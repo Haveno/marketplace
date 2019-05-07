@@ -1,7 +1,8 @@
 # Marketplace made on GoNode Bootcamp
 
-Project of marketplace with express
+Project of marketplace API REST, with express and mongoDB
+full project with Sentry and Redis.
 
 # Clone project
 
-Just run yarn install, and after yarn dev to start the project on localhost:3000.
+Just clone and run yarn install, configure settings on .env file, and after yarn dev to start the project on localhost:3000.

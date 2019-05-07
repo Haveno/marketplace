@@ -1,4 +1,4 @@
-# Empty project for model
+# Marketplace made on GoNode Bootcamp
 
 Project of marketplace with express
 
